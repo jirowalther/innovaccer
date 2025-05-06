@@ -10,3 +10,5 @@ At this point, it is not possible to find the time period in days (mean and medi
 I wanted to inspect the dataset even further, and identified a specific patient ID with 46177005 - End Stage Renal Disease. After testing, I discovered that this patient did not have other relevant codes across all CSV files besides 127013003 - Diabetic renal disease.
 
 Conclusion: Without the relevant codes, there is no possibility of finding the time period in days for patients to go from Stage 1 to End stage renal disease.
+
+<img width="425" alt="Screenshot 2025-05-06 at 2 32 05 AM" src="https://github.com/user-attachments/assets/7c669473-6682-4a97-8823-167c5abc44a7" />
